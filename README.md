@@ -32,5 +32,12 @@ logistics_regression_results.xls
 - pyreadstat
 - matplotlib
 - seaborn
+
 Install all requirements with:
-pip install pandas numpy statsmodels pyreadstat matplotlib seaborn
+
+pip install pandas 
+numpy 
+statsmodels
+pyreadstat
+matplotlib 
+seaborn
