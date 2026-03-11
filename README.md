@@ -12,9 +12,12 @@ The dataset used in this study is derived from the Afrobarometer
 Round 8 survey conducted in Nigeria (January–February 2020) by
 NOI Polls Ltd. The original dataset is publicly available at:
 https://www.afrobarometer.org/data/
+
 The cleaned and recoded version used here applies variable
 recoding as described in the Methods section of the accompanying
-manuscript.
+manuscript and documented in:
+Afrobarometer_R8.sav
+
 ## Analysis
 All statistical analysis was conducted in Python using
 statsmodels. The full analysis is documented in:
