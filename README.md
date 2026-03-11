@@ -4,9 +4,9 @@ Replication code and data for: "The influence of Political Intimidation on Voter
 ## Overview
 This repository contains the data and analysis code for the study:
 "The Influence of Political Intimidation on Voter Turnout in
-Nigerian Elections: Findings from Afrobarometer Round 8"
+Nigerian Elections: Findings from Afrobarometer Round 8 Survey"
 Author: Mbah Christiana Favour
-Department of Sociology, University of Lagos
+Department of Sociology, University of Lagos.
 ## Data Source
 The dataset used in this study is derived from the Afrobarometer
 Round 8 survey conducted in Nigeria (January–February 2020) by
