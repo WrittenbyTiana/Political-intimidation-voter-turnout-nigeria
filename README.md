@@ -18,7 +18,9 @@ manuscript.
 ## Analysis
 All statistical analysis was conducted in Python using
 statsmodels. The full analysis is documented in:
-analysis/logistic_regression.ipynb
+political_intimidation_analysis.ipynb
+Logistic Regression results in:
+logistics_regression_results.xls
 ## Requirements
 - Python 3.x
 - pandas
